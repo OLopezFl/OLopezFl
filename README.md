@@ -76,8 +76,7 @@ Cuando tengo un problema, construyo la solución.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight&hide_border=true&locale=es)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true&locale=es)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 </div>
 
 ---
