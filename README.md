@@ -87,7 +87,7 @@ When I run into a problem, I build the solution.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/@OLopezFl-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OLopezFl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-lopez-web/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-lopez-web/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oscarlopezezquerro81@gmail.com)
 
 </div>
