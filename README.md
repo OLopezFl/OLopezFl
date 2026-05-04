@@ -72,9 +72,9 @@ Cuando tengo un problema, construyo la solución.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight&hide_border=true&locale=es)
-
 ![GitHub Stats](https://github-readme-stats-rho-ivory-boulmfqhmb.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight&hide_border=true&locale=es)
 
 ![Top Languages](https://github-readme-stats-rho-ivory-boulmfqhmb.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true)
 </div>
