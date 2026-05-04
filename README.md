@@ -62,7 +62,7 @@ Cuando tengo un problema, construyo la solución.
 
 ## 🚀 Proyectos
 
-### [EzloLimpiezas](https://github.com/OLopezFl/EzloLimpiezas)
+### [EzloLimpiezas](https://github.com/OLopezFl/EzloTFGOscarL)
 
 > Plataforma de gestión para empresas de limpieza: clientes, reservas y facturación en un solo lugar.
 
