@@ -2,9 +2,9 @@
 
 # Óscar López
 
-### Full-Stack Developer · Frontend enthusiast
+### Full-Stack Developer · Frontend Enthusiast
 
-Construyendo interfaces que importan y backends que aguantan.
+Building interfaces that matter and backends that hold up.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
@@ -19,20 +19,20 @@ Construyendo interfaces que importan y backends que aguantan.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About me
 
-Soy desarrollador full-stack con especial pasión por el frontend.
-Me gusta que las cosas se vean bien **y** funcionen mejor.
-Cuando tengo un problema, construyo la solución.
+Full-Stack Developer with a strong passion for frontend.
+I care about things looking good **and** working even better.
+When I run into a problem, I build the solution.
 
-- 🔭 Actualmente trabajando en **EzloLimpiezas** — app de gestión para servicios de limpieza
-- 🌱 Aprendiendo continuamente dentro del ecosistema JS
-- 🤝 Abierto a colaboraciones y nuevos proyectos
-- 📍 España
+- 🔭 Currently working on **EzloLimpiezas** — management app for cleaning services
+- 🌱 Continuously learning within the JS ecosystem
+- 🤝 Open to collaborations and interesting projects
+- 📍 Spain
 
 ---
 
-## 🛠 Stack
+## 🛠 Tech stack
 
 ### Frontend
 
@@ -50,7 +50,7 @@ Cuando tengo un problema, construyo la solución.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-### Base de datos y herramientas
+### Database & tools
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -60,28 +60,29 @@ Cuando tengo un problema, construyo la solución.
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
 ### [EzloLimpiezas](https://github.com/OLopezFl/EzloTFGOscarL)
 
-> Plataforma de gestión para empresas de limpieza: clientes, reservas y facturación en un solo lugar.
+> Management platform for cleaning businesses — clients, bookings and invoicing in one place.
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-rho-ivory-boulmfqhmb.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com/?user=OLopezFl&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-rho-ivory-boulmfqhmb.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
@@ -94,5 +95,5 @@ Cuando tengo un problema, construyo la solución.
 ---
 
 <div align="center">
-  <sub>Si algo de lo que hago te resulta útil, una estrella siempre se agradece ⭐</sub>
+  <sub>If anything I build is useful to you, a star is always appreciated ⭐</sub>
 </div>
