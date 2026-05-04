@@ -74,9 +74,10 @@ Cuando tengo un problema, construyo la solución.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OLopezFl&theme=tokyonight&hide_border=true&locale=es)
 
-![GitHub Stats](https://github-readme-stats-olopezfl.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-gfbe3t0g2.vercel.app/api?username=OLopezFl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-olopezfl.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true)</div>
+![Top Languages](https://github-readme-stats-gfbe3t0g2.vercel.app/api/top-langs/?username=OLopezFl&layout=compact&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
