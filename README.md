@@ -2,7 +2,7 @@
 
 # Óscar López
 
-### Full-Stack Developer · Frontend Enthusiast
+### Full-Stack Developer
 
 Building interfaces that matter and backends that hold up.
 
